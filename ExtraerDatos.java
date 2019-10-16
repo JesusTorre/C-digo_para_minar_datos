@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package extraerdatos;
+package TripAdvisor_DataMiner;
 
 import java.io.*;
 import java.io.IOException;
@@ -21,7 +21,7 @@ import org.jsoup.select.Elements;
  *
  * @author JESUS-ALBERTO
  */
-public class ExtraerDatos {
+public class TripAdvisor_DataMiner {
 
     /**
      * @param args the command line arguments
